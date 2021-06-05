@@ -730,3 +730,836 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.05-12.58.24:375][259]LogContentValidation: Display: Blueprint /Game/Entry/BP_EntryGameMode.BP_EntryGameMode 유효성 검사
 [2021.06.05-12.58.24:375][259]LogContentValidation: Display: Blueprint /Game/Game/BP_GameLevelGameMode.BP_GameLevelGameMode 유효성 검사
 [2021.06.05-12.58.24:375][259]LogContentValidation: Display: Blueprint /Game/Lobby/BP_LobbyGameMode.BP_LobbyGameMode 유효성 검사
+[2021.06.05-13.02.11:590][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Taeryong/Entry/BP_EntryHud.BP_EntryHud
+[2021.06.05-13.02.11:844][783]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2021.06.05-13.02.13:219][783]LogSlate: Took 0.008302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.05-13.02.16:442][118]LogSlate: Took 0.008403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.05-13.02.18:518][256]LogSlate: Window 'BP_EntryHud' being destroyed
+[2021.06.05-13.03.26:081][ 95]BlueprintLog: New page: BP_EntryHud 컴파일
+[2021.06.05-13.03.26:117][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.06.05-13.03.26:161][ 95]LogSlate: Took 0.011775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.05-13.03.26:173][ 95]LogSlate: Took 0.011612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.06.05-13.03.26:692][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/BP_EntryHud" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset" SILENT=true
+[2021.06.05-13.03.26:710][153]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_EntryHud3CB042D244593F640957949D6969EAE9.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset'
+[2021.06.05-13.03.26:721][153]AssetCheck: New page: 애셋 저장: BP_EntryHud
+[2021.06.05-13.03.26:722][153]LogContentValidation: Display: Blueprint /Game/Taeryong/Entry/BP_EntryHud.BP_EntryHud 유효성 검사
+[2021.06.05-13.03.34:347][ 58]BlueprintLog: New page: BP_EntryHud 컴파일
+[2021.06.05-13.03.34:381][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.06.05-13.03.34:827][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/BP_EntryHud" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset" SILENT=true
+[2021.06.05-13.03.34:843][105]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_EntryHud3C8767284AE250843A1A45AE60188078.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset'
+[2021.06.05-13.03.34:854][105]AssetCheck: New page: 애셋 저장: BP_EntryHud
+[2021.06.05-13.03.34:855][105]LogContentValidation: Display: Blueprint /Game/Taeryong/Entry/BP_EntryHud.BP_EntryHud 유효성 검사
+[2021.06.05-13.04.09:632][247]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Taeryong/Game/BP_GameLevelHud.BP_GameLevelHud
+[2021.06.05-13.04.11:786][454]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-13.04.11:786][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-13.04.11:844][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Taeryong/Game/BP_GameLevelHud.BP_GameLevelHud
+[2021.06.05-13.04.14:429][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Game/BP_GameLevelHud" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Game/BP_GameLevelHud.uasset" SILENT=true
+[2021.06.05-13.04.14:444][693]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_GameLevelHud22798A9B415CDA23007519B40B97AB91.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Game/BP_GameLevelHud.uasset'
+[2021.06.05-13.04.14:455][693]AssetCheck: New page: 애셋 저장: BP_GameLevelHud
+[2021.06.05-13.04.14:455][693]LogContentValidation: Display: Blueprint /Game/Taeryong/Game/BP_GameLevelHud.BP_GameLevelHud 유효성 검사
+[2021.06.05-13.04.29:680][471]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Taeryong/Lobby/BP_LobbyHud.BP_LobbyHud
+[2021.06.05-13.05.11:780][296]BlueprintLog: New page: BP_LobbyHud 컴파일
+[2021.06.05-13.05.11:822][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.06.05-13.05.12:250][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Lobby/BP_LobbyHud" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Lobby/BP_LobbyHud.uasset" SILENT=true
+[2021.06.05-13.05.12:267][341]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_LobbyHudCA0665B34EEA5DC02943178B7200D5C9.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Lobby/BP_LobbyHud.uasset'
+[2021.06.05-13.05.12:278][341]AssetCheck: New page: 애셋 저장: BP_LobbyHud
+[2021.06.05-13.05.12:278][341]LogContentValidation: Display: Blueprint /Game/Taeryong/Lobby/BP_LobbyHud.BP_LobbyHud 유효성 검사
+[2021.06.05-13.05.15:255][690]BlueprintLog: New page: BP_LobbyHud 컴파일
+[2021.06.05-13.05.15:293][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.06.05-13.05.25:323][848]LogEditorViewport: Clicking Background
+[2021.06.05-13.05.30:635][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Lobby/BP_LobbyHud" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Lobby/BP_LobbyHud.uasset" SILENT=true
+[2021.06.05-13.05.30:651][451]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_LobbyHud83A129CE40BAB7688313728331945A75.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Lobby/BP_LobbyHud.uasset'
+[2021.06.05-13.05.30:663][451]AssetCheck: New page: 애셋 저장: BP_LobbyHud
+[2021.06.05-13.05.30:664][451]LogContentValidation: Display: Blueprint /Game/Taeryong/Lobby/BP_LobbyHud.BP_LobbyHud 유효성 검사
+[2021.06.05-13.05.34:619][920]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-13.05.34:619][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-13.05.34:680][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.05-13.05.34:681][920]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-13.05.34:681][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-13.05.34:737][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.05-13.05.34:737][920]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-13.05.34:737][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-13.08.32:448][376]LogTemp: Resetting audio stream to device id 
+[2021.06.05-13.08.32:472][376]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-13.08.32:472][376]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-13.08.54:102][261]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Taeryong/Entry/BP_EntryHud.BP_EntryHud
+[2021.06.05-13.09.06:355][635]BlueprintLog: New page: BP_EntryHud 컴파일
+[2021.06.05-13.09.06:394][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.06.05-13.09.06:901][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/BP_EntryHud" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset" SILENT=true
+[2021.06.05-13.09.06:921][690]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_EntryHudB761095D41CC1E95FC300CA1457767AE.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset'
+[2021.06.05-13.09.06:933][690]AssetCheck: New page: 애셋 저장: BP_EntryHud
+[2021.06.05-13.09.06:933][690]LogContentValidation: Display: Blueprint /Game/Taeryong/Entry/BP_EntryHud.BP_EntryHud 유효성 검사
+[2021.06.05-13.10.07:862][523]LogEditorTransaction: Undo 핀 링크 생성
+[2021.06.05-13.10.38:221][ 44]BlueprintLog: New page: BP_EntryHud 컴파일
+[2021.06.05-13.10.38:260][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.06.05-13.10.38:740][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/BP_EntryHud" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset" SILENT=true
+[2021.06.05-13.10.38:759][ 92]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_EntryHudBE26DD3540ACFDF93422088078140498.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset'
+[2021.06.05-13.10.38:775][ 92]AssetCheck: New page: 애셋 저장: BP_EntryHud
+[2021.06.05-13.10.38:775][ 92]LogContentValidation: Display: Blueprint /Game/Taeryong/Entry/BP_EntryHud.BP_EntryHud 유효성 검사
+[2021.06.05-13.14.43:654][767]LogSlate: Window '부모 클래스 선택' being destroyed
+[2021.06.05-13.14.54:327][ 18]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Taeryong/BP_TeamProjectInstance.BP_TeamProjectInstance
+[2021.06.05-13.14.56:860][222]LogSlate: Window 'BP_TeamProjectInstance' being destroyed
+[2021.06.05-13.16.16:785][830]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Data/EN_Lang.EN_Lang
+[2021.06.05-13.21.18:737][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/EN_Lang" FILE="../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset" SILENT=true
+[2021.06.05-13.21.18:739][933]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/EN_Lang5EA79C8F4232F8D6E0DE7B94EDE9C8D8.tmp' to '../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset'
+[2021.06.05-13.21.18:760][933]AssetCheck: New page: 애셋 저장: EN_Lang
+[2021.06.05-13.21.18:760][933]LogContentValidation: Display: UserDefinedEnum /Game/Data/EN_Lang.EN_Lang 유효성 검사
+[2021.06.05-13.22.09:992][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/EN_Lang" FILE="../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset" SILENT=true
+[2021.06.05-13.22.10:005][ 46]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/EN_LangA0296A1F4518D5AB78EFD3A16EF944EF.tmp' to '../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset'
+[2021.06.05-13.22.10:017][ 46]AssetCheck: New page: 애셋 저장: EN_Lang
+[2021.06.05-13.22.10:017][ 46]LogContentValidation: Display: UserDefinedEnum /Game/Data/EN_Lang.EN_Lang 유효성 검사
+[2021.06.05-13.22.49:627][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/EN_Lang" FILE="../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset" SILENT=true
+[2021.06.05-13.22.49:640][766]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/EN_LangDD65A3374DB277BEB40098BDA7055AE1.tmp' to '../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset'
+[2021.06.05-13.22.49:651][766]AssetCheck: New page: 애셋 저장: EN_Lang
+[2021.06.05-13.22.49:651][766]LogContentValidation: Display: UserDefinedEnum /Game/Data/EN_Lang.EN_Lang 유효성 검사
+[2021.06.05-13.23.00:745][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/EN_Lang" FILE="../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset" SILENT=true
+[2021.06.05-13.23.00:758][ 89]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/EN_LangAE9A20CE403B9DBF0104B8997298BA40.tmp' to '../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset'
+[2021.06.05-13.23.00:770][ 89]AssetCheck: New page: 애셋 저장: EN_Lang
+[2021.06.05-13.23.00:770][ 89]LogContentValidation: Display: UserDefinedEnum /Game/Data/EN_Lang.EN_Lang 유효성 검사
+[2021.06.05-13.23.14:762][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/EN_Lang" FILE="../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset" SILENT=true
+[2021.06.05-13.23.14:775][754]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/EN_Lang451865C84860EDAB962B859E613DBA52.tmp' to '../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset'
+[2021.06.05-13.23.14:788][754]AssetCheck: New page: 애셋 저장: EN_Lang
+[2021.06.05-13.23.14:788][754]LogContentValidation: Display: UserDefinedEnum /Game/Data/EN_Lang.EN_Lang 유효성 검사
+[2021.06.05-13.23.22:769][678]LogSlate: Took 0.008139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.06.05-13.24.06:529][729]BlueprintLog: New page: BP_TeamProjectInstance 컴파일
+[2021.06.05-13.24.06:559][729]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.06.05-13.24.43:797][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.06.05-13.24.43:799][688]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Entry/Entry' took 0.027
+[2021.06.05-13.24.43:800][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Taeryong/BP_TeamProjectInstance] ([1] browsable assets)...
+[2021.06.05-13.24.43:800][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Taeryong/BP_TeamProjectInstance]
+[2021.06.05-13.24.43:803][688]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_TeamProjectInstance_Auto1734036B846C7E9C08242218A51E395B6.tmp' to '../../../../../../Unreal/TeamProject/Saved/Autosaves/Game/Taeryong/BP_TeamProjectInstance_Auto1.uasset'
+[2021.06.05-13.24.43:803][688]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.06.05-13.25.31:540][875]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry
+[2021.06.05-13.32.23:107][177]LogEditorTransaction: Undo 핀 링크 끊기
+[2021.06.05-13.35.11:227][ 57]BlueprintLog: New page: WG_Entry 컴파일
+[2021.06.05-13.35.11:312][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.06.05-13.35.12:014][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_Entry" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset" SILENT=true
+[2021.06.05-13.35.12:051][131]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_Entry868FA8044EC30CF1341EDAAD6EC2DB31.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset'
+[2021.06.05-13.35.12:069][131]AssetCheck: New page: 애셋 저장: WG_Entry
+[2021.06.05-13.35.12:069][131]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry 유효성 검사
+[2021.06.05-13.37.16:517][801]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-13.37.16:517][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-13.37.16:534][801]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-13.37.16:534][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-13.37.18:295][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/EN_Lang" FILE="../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset" SILENT=true
+[2021.06.05-13.37.18:309][992]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/EN_Lang0B291052419422C90A2CF7941527B341.tmp' to '../../../../../../Unreal/TeamProject/Content/Data/EN_Lang.uasset'
+[2021.06.05-13.37.18:325][992]AssetCheck: New page: 애셋 저장: EN_Lang
+[2021.06.05-13.37.18:325][992]LogContentValidation: Display: UserDefinedEnum /Game/Data/EN_Lang.EN_Lang 유효성 검사
+[2021.06.05-13.37.21:560][373]BlueprintLog: New page: BP_TeamProjectInstance 컴파일
+[2021.06.05-13.37.21:604][373]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2021.06.05-13.37.23:824][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/BP_TeamProjectInstance" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/BP_TeamProjectInstance.uasset" SILENT=true
+[2021.06.05-13.37.23:828][626]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_TeamProjectInstanceA73DED7B470BF98ED4473B8F952D162C.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/BP_TeamProjectInstance.uasset'
+[2021.06.05-13.37.23:848][626]AssetCheck: New page: 애셋 저장: BP_TeamProjectInstance
+[2021.06.05-13.37.23:848][626]LogContentValidation: Display: Blueprint /Game/Taeryong/BP_TeamProjectInstance.BP_TeamProjectInstance 유효성 검사
+[2021.06.05-13.37.36:093][999]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry
+[2021.06.05-13.38.37:000][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.06.05-13.38.37:005][924]LogMetaData: Removing '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.SKEL_MenuEntryButtonForLanguageSet_C' ref from Metadata '/Game/Taeryong/Entry/MenuEntryForLanguageSet.PackageMetaData'
+[2021.06.05-13.38.37:005][924]LogMetaData: Removing '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.MenuEntryButtonForLanguageSet_C' ref from Metadata '/Game/Taeryong/Entry/MenuEntryForLanguageSet.PackageMetaData'
+[2021.06.05-13.38.37:005][924]LogMetaData: Removing '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.MenuEntryButtonForLanguageSet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Taeryong/Entry/MenuEntryForLanguageSet.PackageMetaData'
+[2021.06.05-13.38.37:005][924]LogMetaData: Removing '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.MenuEntryButtonForLanguageSet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Taeryong/Entry/MenuEntryForLanguageSet.PackageMetaData'
+[2021.06.05-13.38.37:005][924]LogMetaData: Removing '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.MenuEntryButtonForLanguageSet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Taeryong/Entry/MenuEntryForLanguageSet.PackageMetaData'
+[2021.06.05-13.38.37:044][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/MenuEntryButtonForLanguageSet.uasset" SILENT=true
+[2021.06.05-13.38.37:051][924]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/MenuEntryButtonForLanguageSetFE02BD3A4DCB60BAD66524802FC5E0B6.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/MenuEntryButtonForLanguageSet.uasset'
+[2021.06.05-13.38.37:309][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.06.05-13.38.37:351][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.06.05-13.38.37:381][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.06.05-13.38.37:419][924]AssetCheck: New page: 애셋 저장: MenuEntryButtonForLanguageSet
+[2021.06.05-13.38.37:420][924]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.MenuEntryButtonForLanguageSet 유효성 검사
+[2021.06.05-13.38.38:446][ 23]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.MenuEntryButtonForLanguageSet
+[2021.06.05-13.39.27:064][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.06.05-13.39.27:065][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Entry/Entry' took 0.039
+[2021.06.05-13.39.27:066][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet] ([1] browsable assets)...
+[2021.06.05-13.39.27:066][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet]
+[2021.06.05-13.39.27:082][703]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/MenuEntryButtonForLanguageSet_AuAAE13F8A4B75015396FB60AF43E0B3D4.tmp' to '../../../../../../Unreal/TeamProject/Saved/Autosaves/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet_Auto2.uasset'
+[2021.06.05-13.39.27:083][703]LogFileHelpers: Auto-saving content packages took 0.018
+[2021.06.05-13.39.53:575][805]LogSlate: Took 0.001727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.06.05-13.41.05:708][855]LogSlate: Window '색 선택 툴' being destroyed
+[2021.06.05-13.43.21:461][496]BlueprintLog: New page: MenuEntryButtonForLanguageSet 컴파일
+[2021.06.05-13.43.21:505][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.06.05-13.43.22:199][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/MenuEntryButtonForLanguageSet.uasset" SILENT=true
+[2021.06.05-13.43.22:217][556]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/MenuEntryButtonForLanguageSetDD22B9B14780304E24BB859D4669141C.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/MenuEntryButtonForLanguageSet.uasset'
+[2021.06.05-13.43.22:236][556]AssetCheck: New page: 애셋 저장: MenuEntryButtonForLanguageSet
+[2021.06.05-13.43.22:236][556]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.MenuEntryButtonForLanguageSet 유효성 검사
+[2021.06.05-13.48.42:057][981]BlueprintLog: New page: MenuEntryButtonForLanguageSet 컴파일
+[2021.06.05-13.48.42:105][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.06.05-13.49.22:565][708]BlueprintLog: New page: WG_Entry 컴파일
+[2021.06.05-13.49.22:620][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.06.05-13.49.23:141][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_Entry" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset" SILENT=true
+[2021.06.05-13.49.23:170][750]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_Entry690E61AC4CB628BA730A70A25C72B254.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset'
+[2021.06.05-13.49.23:185][750]AssetCheck: New page: 애셋 저장: WG_Entry
+[2021.06.05-13.49.23:186][750]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry 유효성 검사
+[2021.06.05-13.49.25:729][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/MenuEntryButtonForLanguageSet.uasset" SILENT=true
+[2021.06.05-13.49.25:748][  3]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/MenuEntryButtonForLanguageSetD2458502469D864A55EFC2B2950F3089.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/MenuEntryButtonForLanguageSet.uasset'
+[2021.06.05-13.49.25:772][  3]AssetCheck: New page: 애셋 저장: MenuEntryButtonForLanguageSet
+[2021.06.05-13.49.25:772][  3]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.MenuEntryButtonForLanguageSet 유효성 검사
+[2021.06.05-13.50.08:869][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.06.05-13.50.08:958][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.06.05-13.50.08:973][808]LogMetaData: Removing '/Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.WG_MenuEntryButtonForLanguageSet_C' ref from Metadata '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.PackageMetaData'
+[2021.06.05-13.50.08:973][808]LogMetaData: Removing '/Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.SKEL_WG_MenuEntryButtonForLanguageSet_C' ref from Metadata '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.PackageMetaData'
+[2021.06.05-13.50.08:973][808]LogMetaData: Removing '/Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.WG_MenuEntryButtonForLanguageSet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.PackageMetaData'
+[2021.06.05-13.50.08:973][808]LogMetaData: Removing '/Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.WG_MenuEntryButtonForLanguageSet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.PackageMetaData'
+[2021.06.05-13.50.08:973][808]LogMetaData: Removing '/Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.WG_MenuEntryButtonForLanguageSet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Taeryong/Entry/MenuEntryButtonForLanguageSet.PackageMetaData'
+[2021.06.05-13.50.09:010][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.uasset" SILENT=true
+[2021.06.05-13.50.09:022][808]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_MenuEntryButtonForLanguageSet991475564E897DF92F65A193E3D2529E.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.uasset'
+[2021.06.05-13.50.09:473][808]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.06.05-13.50.09:521][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.06.05-13.50.09:558][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.06.05-13.50.09:578][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_Entry" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset" SILENT=true
+[2021.06.05-13.50.09:606][808]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_EntryBC1A138F4E7D2D166DAE21B707490CD3.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset'
+[2021.06.05-13.50.09:661][808]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.06.05-13.50.09:661][808]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.WG_MenuEntryButtonForLanguageSet 유효성 검사
+[2021.06.05-13.50.09:661][808]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry 유효성 검사
+[2021.06.05-13.50.51:103][307]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu
+[2021.06.05-13.53.01:675][933]BlueprintLog: New page: WG_LanguageSelectionMenu 컴파일
+[2021.06.05-13.53.01:739][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.06.05-13.53.02:357][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-13.53.02:364][982]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenu67D0AFCD48630C869F3143936FFD4789.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-13.53.02:386][982]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-13.53.02:386][982]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-13.53.33:122][475]BlueprintLog: New page: WG_LanguageSelectionMenu 컴파일
+[2021.06.05-13.53.33:165][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.06.05-13.53.33:711][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-13.53.33:730][529]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenu2D27D8C84D4739C5A5E259B262DFFC89.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-13.53.33:750][529]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-13.53.33:750][529]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-13.53.34:595][625]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-13.53.34:595][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-13.53.34:612][625]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-13.53.34:612][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-13.53.40:576][234]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu
+[2021.06.05-14.02.48:440][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.06.05-14.02.48:442][476]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Entry/Entry' took 0.055
+[2021.06.05-14.02.48:443][476]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Taeryong/Entry/WG_LanguageSelectionMenu] ([1] browsable assets)...
+[2021.06.05-14.02.48:443][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/Taeryong/Entry/WG_LanguageSelectionMenu]
+[2021.06.05-14.02.48:463][476]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenu_Auto3B1BCE18840C8E909CDA0EAA1F4B3E99E.tmp' to '../../../../../../Unreal/TeamProject/Saved/Autosaves/Game/Taeryong/Entry/WG_LanguageSelectionMenu_Auto3.uasset'
+[2021.06.05-14.02.48:463][476]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.06.05-14.03.33:604][743]BlueprintLog: New page: WG_LanguageSelectionMenu 컴파일
+[2021.06.05-14.03.33:648][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.05-14.03.37:369][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-14.03.37:388][140]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenu43A569894E90979B6A2A1EADBFD88D84.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-14.03.37:406][140]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-14.03.37:406][140]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-14.03.55:926][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-14.03.55:943][302]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenu854950BC431FEDF1F86D3590A55C463A.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-14.03.55:960][302]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-14.03.55:960][302]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-14.04.43:676][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-14.04.43:695][886]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenuD57A23A94824BEC591A173B6522F7277.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-14.04.43:711][886]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-14.04.43:712][886]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-14.04.46:230][134]BlueprintLog: New page: WG_Entry 컴파일
+[2021.06.05-14.04.46:296][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.06.05-14.04.46:807][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_Entry" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset" SILENT=true
+[2021.06.05-14.04.46:837][169]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_EntryF59296A5424E5098512C36B0E88F93FA.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset'
+[2021.06.05-14.04.46:859][169]AssetCheck: New page: 애셋 저장: WG_Entry
+[2021.06.05-14.04.46:859][169]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry 유효성 검사
+[2021.06.05-14.05.11:954][  4]BlueprintLog: New page: WG_LanguageSelectionMenu 컴파일
+[2021.06.05-14.05.12:066][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.06.05-14.05.14:161][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-14.05.14:181][215]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenuF53A7F52413FEB4E8885D5B903F03709.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-14.05.14:199][215]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-14.05.14:199][215]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-14.05.19:073][723]BlueprintLog: New page: WG_Entry 컴파일
+[2021.06.05-14.05.19:130][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.06.05-14.05.19:681][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_Entry" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset" SILENT=true
+[2021.06.05-14.05.19:710][777]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_EntryEFBE0CC1477F1BA3372003A4B0084AB7.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset'
+[2021.06.05-14.05.19:727][777]AssetCheck: New page: 애셋 저장: WG_Entry
+[2021.06.05-14.05.19:727][777]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry 유효성 검사
+[2021.06.05-14.06.48:839][228]BlueprintLog: New page: WG_Entry 컴파일
+[2021.06.05-14.06.48:898][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.06.05-14.06.49:535][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_Entry" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset" SILENT=true
+[2021.06.05-14.06.49:566][289]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_Entry92E76DF942FF7C9425F57584E4FA809F.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset'
+[2021.06.05-14.06.49:587][289]AssetCheck: New page: 애셋 저장: WG_Entry
+[2021.06.05-14.06.49:587][289]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry 유효성 검사
+[2021.06.05-14.07.39:953][297]BlueprintLog: New page: WG_Entry 컴파일
+[2021.06.05-14.07.40:011][297]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.06.05-14.07.43:190][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_Entry" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset" SILENT=true
+[2021.06.05-14.07.43:219][661]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_EntryAE6074004F4B9DC64899D78806992B6D.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_Entry.uasset'
+[2021.06.05-14.07.43:239][661]AssetCheck: New page: 애셋 저장: WG_Entry
+[2021.06.05-14.07.43:239][661]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_Entry.WG_Entry 유효성 검사
+[2021.06.05-14.09.01:687][759]BlueprintLog: New page: BP_EntryHud 컴파일
+[2021.06.05-14.09.01:754][759]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.06.05-14.09.02:227][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/BP_EntryHud" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset" SILENT=true
+[2021.06.05-14.09.02:251][801]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/BP_EntryHudEEA138B247DC84C5FFF83B9A5532DED1.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/BP_EntryHud.uasset'
+[2021.06.05-14.09.02:268][801]AssetCheck: New page: 애셋 저장: BP_EntryHud
+[2021.06.05-14.09.02:268][801]LogContentValidation: Display: Blueprint /Game/Taeryong/Entry/BP_EntryHud.BP_EntryHud 유효성 검사
+[2021.06.05-14.15.38:351][236]BlueprintLog: New page: WG_MenuEntryButtonForLanguageSet 컴파일
+[2021.06.05-14.15.38:355][236]LogBlueprint: Warning: [Compiler WG_MenuEntryButtonForLanguageSet] BP_EntryHud 에 형변환  : 실행 핀이 연결되지 않아 쳐내지(prune) 못했습니다. 연결된 값을 사용할 수 없어 기본값으로 읽습니다.
+[2021.06.05-14.15.38:355][236]LogBlueprint: Error: [Compiler WG_MenuEntryButtonForLanguageSet] 이 블루프린트(셀프)는 BP_EntryHud_C 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2021.06.05-14.15.38:355][236]LogBlueprint: Error: [Compiler WG_MenuEntryButtonForLanguageSet] WG_Entry 구하기  변수 노드가 유효하지 않은 타깃을 사용합니다. 실행 체인에 연결되지 않았다가 제거된 노드에 의존하는 것 같습니다.
+[2021.06.05-14.15.38:450][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.06.05-14.15.57:444][351]BlueprintLog: New page: WG_MenuEntryButtonForLanguageSet 컴파일
+[2021.06.05-14.15.57:517][351]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.06.05-14.15.58:140][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.uasset" SILENT=true
+[2021.06.05-14.15.58:164][407]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_MenuEntryButtonForLanguageSetBB075F854AF1FBE59BE27D9B1E45D54D.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.uasset'
+[2021.06.05-14.15.58:182][407]AssetCheck: New page: 애셋 저장: WG_MenuEntryButtonForLanguageSet
+[2021.06.05-14.15.58:182][407]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_MenuEntryButtonForLanguageSet.WG_MenuEntryButtonForLanguageSet 유효성 검사
+[2021.06.05-14.17.33:077][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2021.06.05-14.17.33:079][550]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Entry/Entry' took 0.043
+[2021.06.05-14.17.33:080][550]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Taeryong/Entry/WG_LanguageSelectionMenu] ([1] browsable assets)...
+[2021.06.05-14.17.33:080][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Taeryong/Entry/WG_LanguageSelectionMenu]
+[2021.06.05-14.17.33:100][550]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenu_Auto45E513BF0499097635B5079809B532220.tmp' to '../../../../../../Unreal/TeamProject/Saved/Autosaves/Game/Taeryong/Entry/WG_LanguageSelectionMenu_Auto4.uasset'
+[2021.06.05-14.17.33:101][550]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.06.05-14.17.53:145][869]BlueprintLog: New page: WG_LanguageSelectionMenu 컴파일
+[2021.06.05-14.17.53:218][869]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.06.05-14.17.53:649][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-14.17.53:675][903]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenu4BB106C343F0D6633C88F789A22A8AC7.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-14.17.53:696][903]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-14.17.53:697][903]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-14.18.12:042][902]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.06.05-14.18.12:057][902]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2021.06.05-14.18.12:057][902]LogPlayLevel: [PlayLevel] Compiling BP_GameLevelGameMode before play...
+[2021.06.05-14.18.12:072][902]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2021.06.05-14.18.12:117][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.06.05-14.18.12:119][902]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (2 blueprints)
+[2021.06.05-14.18.12:120][902]PIE: New page: PIE 세션: Entry (2021. 6. 6. 오전 8:18:12)
+[2021.06.05-14.18.12:122][902]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.05-14.18.12:123][902]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.05-14.18.12:124][902]LogPlayLevel: Creating play world package: /Game/Entry/UEDPIE_0_Entry
+[2021.06.05-14.18.12:125][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001191s)
+[2021.06.05-14.18.12:126][902]LogAIModule: Creating AISystem for world Entry
+[2021.06.05-14.18.12:126][902]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016AB1BE8600), frame # 536902
+[2021.06.05-14.18.12:127][902]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016A28348A40), frame # 536902
+[2021.06.05-14.18.12:127][902]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2021.06.05-14.18.12:127][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Entry/Entry.Entry to /Game/Entry/UEDPIE_0_Entry.Entry (0.003066s)
+[2021.06.05-14.18.12:167][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.06.05-14.18.12:168][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-14.18.12:168][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-14.18.12:168][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-14.18.12:168][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-14.18.12:168][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-14.18.12:168][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-14.18.12:168][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-14.18.12:168][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-14.18.12:169][902]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-14.18.12:169][902]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-14.18.12:181][902]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.18.12:181][902]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.18.12:205][902]LogAudioMixer: Display: Using Audio Device 스피커(5- a22xt USB Audio driver)
+[2021.06.05-14.18.12:206][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-14.18.12:206][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-14.18.12:206][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-14.18.12:206][902]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-14.18.12:219][902]LogInit: FAudioDevice initialized.
+[2021.06.05-14.18.12:267][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.18.12:267][902]LogLoad: Game class is 'BP_EntryGameMode_C'
+[2021.06.05-14.18.12:268][902]LogWorld: Bringing World /Game/Entry/UEDPIE_0_Entry.Entry up for play (max tick rate 0) at 2021.06.05-23.18.12
+[2021.06.05-14.18.12:269][902]LogWorld: Bringing up level for play took: 0.000686
+[2021.06.05-14.18.12:269][902]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.06.05-14.18.12:295][902]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2021.06.05-14.18.12:297][902]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.05-14.18.12:297][902]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.05-14.18.12:297][902]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.05-14.18.12:298][902]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.06.05-14.18.12:298][902]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.18.12:298][902]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2021.06.05-14.18.12:302][902]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.05-14.18.12:304][902]PIE: 서버가 로그인했습니다.
+[2021.06.05-14.18.12:307][902]PIE: 에디터에서 플레이 총 시작 시간 0.251초입니다.
+[2021.06.05-14.18.12:309][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-14.18.12:309][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-14.18.12:309][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-14.18.12:309][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-14.18.12:309][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-14.18.12:309][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-14.18.12:309][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-14.18.12:309][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-14.18.12:309][902]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-14.18.12:310][902]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-14.18.12:321][902]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.18.12:322][902]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.18.12:350][902]LogAudioMixer: Display: Using Audio Device 스피커(5- a22xt USB Audio driver)
+[2021.06.05-14.18.12:350][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-14.18.12:350][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-14.18.12:350][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-14.18.12:351][902]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-14.18.12:364][902]LogInit: FAudioDevice initialized.
+[2021.06.05-14.18.12:416][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.18.12:416][902]LogNet: Browse: 127.0.0.1:17777/Engine/Maps/Entry
+[2021.06.05-14.18.12:417][902]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.06.05-14.18.12:417][902]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.06.05-14.18.12:418][902]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.18.12:418][902]LogNet: Game client on port 17777, rate 10000
+[2021.06.05-14.18.12:420][902]PIE: 클라이언트가 로그인했습니다.
+[2021.06.05-14.18.12:423][902]PIE: 에디터에서 플레이 총 시작 시간 0.367초입니다.
+[2021.06.05-14.18.12:494][902]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.06.05-14.18.13:583][906]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53389
+[2021.06.05-14.18.13:584][906]LogHandshake: SendConnectChallenge. Timestamp: 1.548500, Cookie: 038157164084063092222064237089122207067088217039073253034223
+[2021.06.05-14.18.13:584][906]LogHandshake: SendChallengeResponse. Timestamp: 1.548500, Cookie: 038157164084063092222064237089122207067088217039073253034223
+[2021.06.05-14.18.13:598][907]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53389
+[2021.06.05-14.18.13:598][907]LogHandshake: SendChallengeAck. InCookie: 038157164084063092222064237089122207067088217039073253034223
+[2021.06.05-14.18.13:598][907]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53389
+[2021.06.05-14.18.13:599][907]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.18.13:599][907]LogNet: NotifyAcceptedConnection: Name: Entry, TimeStamp: 06/05/21 23:18:13, [UNetConnection] RemoteAddr: 127.0.0.1:53389, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.18.13:599][907]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53389, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.18.13:600][907]LogNetVersion: TeamProject 1.0.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2322497831)
+[2021.06.05-14.18.13:600][907]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.18.13:614][908]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Entry/UEDPIE_0_Entry.Entry: Accepted
+[2021.06.05-14.18.13:614][908]LogNet: Remote platform little endian=1
+[2021.06.05-14.18.13:614][908]LogNet: This platform little endian=1
+[2021.06.05-14.18.13:615][908]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.06.05-14.18.13:630][909]LogNet: Login request: ?Name=DESKTOP-49VT7VK-45F3FDBE4FC9CA0F1E1BB995560D7AE9 userId: NULL:DESKTOP-49VT7VK-45F3FDBE4FC9CA0F1E1BB995560D7AE9 platform: NULL
+[2021.06.05-14.18.13:630][909]LogNet: Welcomed by server (Level: /Game/Entry/UEDPIE_0_Entry, Game: /Game/Entry/BP_EntryGameMode.BP_EntryGameMode_C)
+[2021.06.05-14.18.13:630][909]LogLoad: LoadMap: 127.0.0.1:17777/Game/Entry/UEDPIE_0_Entry?game=/Game/Entry/BP_EntryGameMode.BP_EntryGameMode_C
+[2021.06.05-14.18.13:630][909]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2021.06.05-14.18.13:630][909]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.18.13:630][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.18.13:706][909]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.06.05-14.18.13:712][909]LogAIModule: Creating AISystem for world Entry
+[2021.06.05-14.18.13:712][909]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016A9BB5A800), frame # 536909
+[2021.06.05-14.18.13:712][909]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016AD8F25080), frame # 536909
+[2021.06.05-14.18.13:713][909]LogWorld: Bringing World /Game/Entry/UEDPIE_1_Entry.Entry up for play (max tick rate 0) at 2021.06.05-23.18.13
+[2021.06.05-14.18.13:713][909]LogWorld: Bringing up level for play took: 0.000204
+[2021.06.05-14.18.13:714][909]LogLoad: Took 0.083066 seconds to LoadMap(/Game/Entry/UEDPIE_0_Entry)
+[2021.06.05-14.18.13:777][910]LogNet: Client netspeed is 10000
+[2021.06.05-14.18.13:777][910]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-49VT7VK-45F3FDBE4FC9CA0F1E1BB995560D7AE9?SplitscreenCount=1
+[2021.06.05-14.18.13:778][910]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.18.13:780][910]LogNet: Join succeeded: DESKTOP-49VT7VK-45F3
+[2021.06.05-14.18.14:208][928]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.05-14.18.14:270][932]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.18.14:311][935]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.18.15:181][993]LogSlate: Window 'TeamProject 프리뷰 [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2021.06.05-14.18.15:198][993]LogWorld: BeginTearingDown for /Game/Entry/UEDPIE_1_Entry
+[2021.06.05-14.18.15:199][993]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.18.15:199][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.18.15:206][993]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.06.05-14.18.15:206][993]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.06.05-14.18.15:206][993]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_EntryPlayerControl_C_0, Owner: BP_EntryPlayerControl_C_0, UniqueId: NULL:DESKTOP-49VT7VK-45F3FDBE4FC9CA0F1E1BB995560D7AE9, Channels: 9, Time: 2021.06.05-14.18.15
+[2021.06.05-14.18.15:206][993]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_EntryPlayerControl_C_0, Owner: BP_EntryPlayerControl_C_0, UniqueId: NULL:DESKTOP-49VT7VK-45F3FDBE4FC9CA0F1E1BB995560D7AE9
+[2021.06.05-14.18.15:206][993]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.06.05-14.18.15:207][993]LogWorld: BeginTearingDown for /Game/Entry/UEDPIE_0_Entry
+[2021.06.05-14.18.15:208][993]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.06.05-14.18.15:208][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.18.15:208][993]LogSlate: Window 'TeamProject 프리뷰 [NetMode: Server] (64-bit/Windows) ' being destroyed
+[2021.06.05-14.18.15:216][993]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.18.15:217][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.18.15:223][993]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.06.05-14.18.15:223][993]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.06.05-14.18.15:223][993]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:53389, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-45F3FDBE4FC9CA0F1E1BB995560D7AE9
+[2021.06.05-14.18.15:223][993]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53389, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-45F3FDBE4FC9CA0F1E1BB995560D7AE9, Channels: 9, Time: 2021.06.05-14.18.15
+[2021.06.05-14.18.15:223][993]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53389, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-45F3FDBE4FC9CA0F1E1BB995560D7AE9
+[2021.06.05-14.18.15:224][993]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.06.05-14.18.15:225][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-14.18.15:232][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.18.15:317][993]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016AD8F25080), frame # 536993
+[2021.06.05-14.18.15:317][993]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016A9BB5A800), frame # 536993
+[2021.06.05-14.18.15:318][993]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016A28348A40), frame # 536993
+[2021.06.05-14.18.15:318][993]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016AB1BE8600), frame # 536993
+[2021.06.05-14.18.15:322][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.06.05-14.18.15:382][994]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.06.05-14.18.15:382][994]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.06.05-14.18.22:833][726]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.06.05-14.18.22:848][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.05-14.18.22:848][726]PIE: New page: PIE 세션: Entry (2021. 6. 6. 오전 8:18:22)
+[2021.06.05-14.18.22:848][726]LogPlayLevel: Creating play world package: /Game/Entry/UEDPIE_0_Entry
+[2021.06.05-14.18.22:849][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000824s)
+[2021.06.05-14.18.22:850][726]LogAIModule: Creating AISystem for world Entry
+[2021.06.05-14.18.22:850][726]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016AB05BFE00), frame # 537726
+[2021.06.05-14.18.22:850][726]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016AB05DA480), frame # 537726
+[2021.06.05-14.18.22:850][726]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2021.06.05-14.18.22:850][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Entry/Entry.Entry to /Game/Entry/UEDPIE_0_Entry.Entry (0.002205s)
+[2021.06.05-14.18.22:893][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.06.05-14.18.22:898][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-14.18.22:898][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-14.18.22:898][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-14.18.22:898][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-14.18.22:898][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-14.18.22:898][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-14.18.22:898][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-14.18.22:898][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-14.18.22:898][726]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-14.18.22:898][726]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-14.18.22:908][726]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.18.22:908][726]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.18.22:928][726]LogAudioMixer: Display: Using Audio Device 스피커(5- a22xt USB Audio driver)
+[2021.06.05-14.18.22:929][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-14.18.22:929][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-14.18.22:929][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-14.18.22:930][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-14.18.22:941][726]LogInit: FAudioDevice initialized.
+[2021.06.05-14.18.22:999][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.18.22:999][726]LogLoad: Game class is 'BP_EntryGameMode_C'
+[2021.06.05-14.18.23:001][726]LogWorld: Bringing World /Game/Entry/UEDPIE_0_Entry.Entry up for play (max tick rate 0) at 2021.06.05-23.18.23
+[2021.06.05-14.18.23:001][726]LogWorld: Bringing up level for play took: 0.000962
+[2021.06.05-14.18.23:001][726]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.06.05-14.18.23:005][726]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.05-14.18.23:005][726]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.05-14.18.23:005][726]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.05-14.18.23:005][726]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.06.05-14.18.23:005][726]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.18.23:005][726]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2021.06.05-14.18.23:008][726]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.05-14.18.23:011][726]PIE: 서버가 로그인했습니다.
+[2021.06.05-14.18.23:013][726]PIE: 에디터에서 플레이 총 시작 시간 0.166초입니다.
+[2021.06.05-14.18.23:015][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-14.18.23:015][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-14.18.23:015][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-14.18.23:015][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-14.18.23:015][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-14.18.23:015][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-14.18.23:015][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-14.18.23:015][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-14.18.23:016][726]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-14.18.23:016][726]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-14.18.23:027][726]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.18.23:028][726]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.18.23:050][726]LogAudioMixer: Display: Using Audio Device 스피커(5- a22xt USB Audio driver)
+[2021.06.05-14.18.23:051][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-14.18.23:051][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-14.18.23:051][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-14.18.23:051][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-14.18.23:066][726]LogInit: FAudioDevice initialized.
+[2021.06.05-14.18.23:115][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.18.23:115][726]LogNet: Browse: 127.0.0.1:17777/Engine/Maps/Entry
+[2021.06.05-14.18.23:115][726]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.06.05-14.18.23:116][726]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.06.05-14.18.23:116][726]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.18.23:116][726]LogNet: Game client on port 17777, rate 10000
+[2021.06.05-14.18.23:119][726]PIE: 클라이언트가 로그인했습니다.
+[2021.06.05-14.18.23:121][726]PIE: 에디터에서 플레이 총 시작 시간 0.274초입니다.
+[2021.06.05-14.18.24:138][787]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52490
+[2021.06.05-14.18.24:138][787]LogHandshake: SendConnectChallenge. Timestamp: 1.311413, Cookie: 193199252117251057086139031184018054058246179001166184114102
+[2021.06.05-14.18.24:138][787]LogHandshake: SendChallengeResponse. Timestamp: 1.311413, Cookie: 193199252117251057086139031184018054058246179001166184114102
+[2021.06.05-14.18.24:153][788]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52490
+[2021.06.05-14.18.24:153][788]LogHandshake: SendChallengeAck. InCookie: 193199252117251057086139031184018054058246179001166184114102
+[2021.06.05-14.18.24:153][788]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52490
+[2021.06.05-14.18.24:154][788]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.18.24:154][788]LogNet: NotifyAcceptedConnection: Name: Entry, TimeStamp: 06/05/21 23:18:24, [UNetConnection] RemoteAddr: 127.0.0.1:52490, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.18.24:154][788]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52490, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.18.24:155][788]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.18.24:172][789]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Entry/UEDPIE_0_Entry.Entry: Accepted
+[2021.06.05-14.18.24:172][789]LogNet: Remote platform little endian=1
+[2021.06.05-14.18.24:172][789]LogNet: This platform little endian=1
+[2021.06.05-14.18.24:172][789]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.05-14.18.24:189][790]LogNet: Login request: ?Name=DESKTOP-49VT7VK-0ED66FB3468A25E6CCBFDC877E2D72E8 userId: NULL:DESKTOP-49VT7VK-0ED66FB3468A25E6CCBFDC877E2D72E8 platform: NULL
+[2021.06.05-14.18.24:189][790]LogNet: Welcomed by server (Level: /Game/Entry/UEDPIE_0_Entry, Game: /Game/Entry/BP_EntryGameMode.BP_EntryGameMode_C)
+[2021.06.05-14.18.24:190][790]LogLoad: LoadMap: 127.0.0.1:17777/Game/Entry/UEDPIE_0_Entry?game=/Game/Entry/BP_EntryGameMode.BP_EntryGameMode_C
+[2021.06.05-14.18.24:190][790]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2021.06.05-14.18.24:190][790]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.18.24:190][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.18.24:233][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.06.05-14.18.24:239][790]LogAIModule: Creating AISystem for world Entry
+[2021.06.05-14.18.24:239][790]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016AB050A200), frame # 537790
+[2021.06.05-14.18.24:239][790]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016ACB6DC7C0), frame # 537790
+[2021.06.05-14.18.24:240][790]LogWorld: Bringing World /Game/Entry/UEDPIE_1_Entry.Entry up for play (max tick rate 0) at 2021.06.05-23.18.24
+[2021.06.05-14.18.24:240][790]LogWorld: Bringing up level for play took: 0.000248
+[2021.06.05-14.18.24:240][790]LogLoad: Took 0.050688 seconds to LoadMap(/Game/Entry/UEDPIE_0_Entry)
+[2021.06.05-14.18.24:308][791]LogNet: Client netspeed is 10000
+[2021.06.05-14.18.24:308][791]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-49VT7VK-0ED66FB3468A25E6CCBFDC877E2D72E8?SplitscreenCount=1
+[2021.06.05-14.18.24:309][791]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.18.24:310][791]LogNet: Join succeeded: DESKTOP-49VT7VK-0ED6
+[2021.06.05-14.18.24:644][809]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.05-14.18.24:712][813]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.18.24:755][816]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.19.09:615][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.19.09:615][701]LogWorld: BeginTearingDown for /Game/Entry/UEDPIE_1_Entry
+[2021.06.05-14.19.09:615][701]LogSlate: Window 'TeamProject 프리뷰 [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2021.06.05-14.19.09:617][701]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.19.09:617][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.19.09:625][701]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2021.06.05-14.19.09:625][701]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2021.06.05-14.19.09:626][701]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_EntryPlayerControl_C_0, Owner: BP_EntryPlayerControl_C_0, UniqueId: NULL:DESKTOP-49VT7VK-0ED66FB3468A25E6CCBFDC877E2D72E8, Channels: 10, Time: 2021.06.05-14.19.09
+[2021.06.05-14.19.09:626][701]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: BP_EntryPlayerControl_C_0, Owner: BP_EntryPlayerControl_C_0, UniqueId: NULL:DESKTOP-49VT7VK-0ED66FB3468A25E6CCBFDC877E2D72E8
+[2021.06.05-14.19.09:626][701]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2021.06.05-14.19.09:626][701]LogWorld: BeginTearingDown for /Game/Entry/UEDPIE_0_Entry
+[2021.06.05-14.19.09:627][701]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.06.05-14.19.09:627][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.19.09:627][701]LogSlate: Window 'TeamProject 프리뷰 [NetMode: Server] (64-bit/Windows) ' being destroyed
+[2021.06.05-14.19.09:629][701]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.19.09:629][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.19.09:636][701]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.06.05-14.19.09:636][701]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.06.05-14.19.09:636][701]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52490, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-0ED66FB3468A25E6CCBFDC877E2D72E8
+[2021.06.05-14.19.09:636][701]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52490, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-0ED66FB3468A25E6CCBFDC877E2D72E8, Channels: 10, Time: 2021.06.05-14.19.09
+[2021.06.05-14.19.09:636][701]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52490, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-0ED66FB3468A25E6CCBFDC877E2D72E8
+[2021.06.05-14.19.09:636][701]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.06.05-14.19.09:637][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-14.19.09:643][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.19.09:718][701]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016ACB6DC7C0), frame # 540701
+[2021.06.05-14.19.09:718][701]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016AB050A200), frame # 540701
+[2021.06.05-14.19.09:719][701]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016AB05DA480), frame # 540701
+[2021.06.05-14.19.09:719][701]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016AB05BFE00), frame # 540701
+[2021.06.05-14.19.09:723][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.06.05-14.19.09:750][702]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.05-14.19.09:750][702]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.06.05-14.22.57:483][450]LogTemp: Resetting audio stream to device id 
+[2021.06.05-14.22.57:507][450]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.22.57:507][450]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.23.18:207][689]BlueprintLog: New page: WG_LanguageSelectionMenu 컴파일
+[2021.06.05-14.23.18:298][689]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.06.05-14.23.18:876][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-14.23.18:901][725]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenuC20DEEC743614C14DBC137BDFA8D17B6.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-14.23.18:919][725]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-14.23.18:919][725]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-14.23.21:052][927]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.06.05-14.23.21:066][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.05-14.23.21:066][927]PIE: New page: PIE 세션: Entry (2021. 6. 6. 오전 8:23:21)
+[2021.06.05-14.23.21:067][927]LogPlayLevel: Creating play world package: /Game/Entry/UEDPIE_0_Entry
+[2021.06.05-14.23.21:068][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000848s)
+[2021.06.05-14.23.21:069][927]LogAIModule: Creating AISystem for world Entry
+[2021.06.05-14.23.21:069][927]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016AB039B400), frame # 568927
+[2021.06.05-14.23.21:069][927]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016AE10CB4C0), frame # 568927
+[2021.06.05-14.23.21:069][927]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2021.06.05-14.23.21:069][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Entry/Entry.Entry to /Game/Entry/UEDPIE_0_Entry.Entry (0.002436s)
+[2021.06.05-14.23.21:119][927]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2021.06.05-14.23.21:122][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-14.23.21:122][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-14.23.21:122][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-14.23.21:122][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-14.23.21:122][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-14.23.21:122][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-14.23.21:123][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-14.23.21:123][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-14.23.21:124][927]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-14.23.21:124][927]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-14.23.21:134][927]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.23.21:134][927]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.23.21:154][927]LogAudioMixer: Display: Using Audio Device 스피커(5- a22xt USB Audio driver)
+[2021.06.05-14.23.21:154][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-14.23.21:154][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-14.23.21:154][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-14.23.21:155][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-14.23.21:167][927]LogInit: FAudioDevice initialized.
+[2021.06.05-14.23.21:221][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.23.21:221][927]LogLoad: Game class is 'BP_EntryGameMode_C'
+[2021.06.05-14.23.21:223][927]LogWorld: Bringing World /Game/Entry/UEDPIE_0_Entry.Entry up for play (max tick rate 0) at 2021.06.05-23.23.21
+[2021.06.05-14.23.21:223][927]LogWorld: Bringing up level for play took: 0.000591
+[2021.06.05-14.23.21:223][927]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.06.05-14.23.21:227][927]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.05-14.23.21:227][927]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.05-14.23.21:227][927]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.05-14.23.21:227][927]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.06.05-14.23.21:227][927]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.23.21:227][927]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2021.06.05-14.23.21:231][927]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.05-14.23.21:234][927]PIE: 서버가 로그인했습니다.
+[2021.06.05-14.23.21:236][927]PIE: 에디터에서 플레이 총 시작 시간 0.171초입니다.
+[2021.06.05-14.23.21:238][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-14.23.21:238][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-14.23.21:238][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-14.23.21:238][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-14.23.21:238][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-14.23.21:238][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-14.23.21:238][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-14.23.21:238][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-14.23.21:239][927]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-14.23.21:239][927]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-14.23.21:252][927]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.23.21:252][927]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.23.21:275][927]LogAudioMixer: Display: Using Audio Device 스피커(5- a22xt USB Audio driver)
+[2021.06.05-14.23.21:276][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-14.23.21:276][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-14.23.21:276][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-14.23.21:277][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-14.23.21:290][927]LogInit: FAudioDevice initialized.
+[2021.06.05-14.23.21:338][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.23.21:338][927]LogNet: Browse: 127.0.0.1:17777/Engine/Maps/Entry
+[2021.06.05-14.23.21:338][927]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.06.05-14.23.21:338][927]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.06.05-14.23.21:339][927]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.23.21:339][927]LogNet: Game client on port 17777, rate 10000
+[2021.06.05-14.23.21:342][927]PIE: 클라이언트가 로그인했습니다.
+[2021.06.05-14.23.21:344][927]PIE: 에디터에서 플레이 총 시작 시간 0.279초입니다.
+[2021.06.05-14.23.22:353][996]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62889
+[2021.06.05-14.23.22:353][996]LogHandshake: SendConnectChallenge. Timestamp: 1.308886, Cookie: 070062239175077057146036238072092144148138102128045199134009
+[2021.06.05-14.23.22:354][996]LogHandshake: SendChallengeResponse. Timestamp: 1.308886, Cookie: 070062239175077057146036238072092144148138102128045199134009
+[2021.06.05-14.23.22:369][997]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62889
+[2021.06.05-14.23.22:369][997]LogHandshake: SendChallengeAck. InCookie: 070062239175077057146036238072092144148138102128045199134009
+[2021.06.05-14.23.22:369][997]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62889
+[2021.06.05-14.23.22:369][997]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.23.22:369][997]LogNet: NotifyAcceptedConnection: Name: Entry, TimeStamp: 06/05/21 23:23:22, [UNetConnection] RemoteAddr: 127.0.0.1:62889, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.23.22:369][997]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62889, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.23.22:370][997]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.23.22:385][998]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Entry/UEDPIE_0_Entry.Entry: Accepted
+[2021.06.05-14.23.22:385][998]LogNet: Remote platform little endian=1
+[2021.06.05-14.23.22:385][998]LogNet: This platform little endian=1
+[2021.06.05-14.23.22:386][998]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.06.05-14.23.22:400][999]LogNet: Login request: ?Name=DESKTOP-49VT7VK-8B51FAD14A59F415CA9FF28849089D47 userId: NULL:DESKTOP-49VT7VK-8B51FAD14A59F415CA9FF28849089D47 platform: NULL
+[2021.06.05-14.23.22:401][999]LogNet: Welcomed by server (Level: /Game/Entry/UEDPIE_0_Entry, Game: /Game/Entry/BP_EntryGameMode.BP_EntryGameMode_C)
+[2021.06.05-14.23.22:401][999]LogLoad: LoadMap: 127.0.0.1:17777/Game/Entry/UEDPIE_0_Entry?game=/Game/Entry/BP_EntryGameMode.BP_EntryGameMode_C
+[2021.06.05-14.23.22:401][999]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2021.06.05-14.23.22:401][999]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.23.22:401][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.23.22:446][999]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.06.05-14.23.22:450][999]LogAIModule: Creating AISystem for world Entry
+[2021.06.05-14.23.22:450][999]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016ADDEF3000), frame # 568999
+[2021.06.05-14.23.22:450][999]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016AD9B69940), frame # 568999
+[2021.06.05-14.23.22:452][999]LogWorld: Bringing World /Game/Entry/UEDPIE_1_Entry.Entry up for play (max tick rate 0) at 2021.06.05-23.23.22
+[2021.06.05-14.23.22:452][999]LogWorld: Bringing up level for play took: 0.000242
+[2021.06.05-14.23.22:452][999]LogLoad: Took 0.051213 seconds to LoadMap(/Game/Entry/UEDPIE_0_Entry)
+[2021.06.05-14.23.22:530][  0]LogNet: Client netspeed is 10000
+[2021.06.05-14.23.22:530][  0]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-49VT7VK-8B51FAD14A59F415CA9FF28849089D47?SplitscreenCount=1
+[2021.06.05-14.23.22:531][  0]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.23.22:532][  0]LogNet: Join succeeded: DESKTOP-49VT7VK-8B51
+[2021.06.05-14.23.22:807][ 18]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.05-14.23.22:862][ 22]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.23.22:905][ 25]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.23.33:826][759]LogSlate: Window 'TeamProject 프리뷰 [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2021.06.05-14.23.33:846][759]LogWorld: BeginTearingDown for /Game/Entry/UEDPIE_1_Entry
+[2021.06.05-14.23.33:875][759]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.23.33:875][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.23.33:884][759]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2021.06.05-14.23.33:884][759]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2021.06.05-14.23.33:884][759]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_EntryPlayerControl_C_0, Owner: BP_EntryPlayerControl_C_0, UniqueId: NULL:DESKTOP-49VT7VK-8B51FAD14A59F415CA9FF28849089D47, Channels: 10, Time: 2021.06.05-14.23.33
+[2021.06.05-14.23.33:884][759]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_EntryPlayerControl_C_0, Owner: BP_EntryPlayerControl_C_0, UniqueId: NULL:DESKTOP-49VT7VK-8B51FAD14A59F415CA9FF28849089D47
+[2021.06.05-14.23.33:884][759]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2021.06.05-14.23.33:885][759]LogWorld: BeginTearingDown for /Game/Entry/UEDPIE_0_Entry
+[2021.06.05-14.23.33:885][759]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.06.05-14.23.33:886][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.23.33:886][759]LogSlate: Window 'TeamProject 프리뷰 [NetMode: Server] (64-bit/Windows) ' being destroyed
+[2021.06.05-14.23.33:925][759]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.23.33:925][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.23.33:936][759]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2021.06.05-14.23.33:936][759]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2021.06.05-14.23.33:936][759]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62889, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-8B51FAD14A59F415CA9FF28849089D47
+[2021.06.05-14.23.33:936][759]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62889, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-8B51FAD14A59F415CA9FF28849089D47, Channels: 10, Time: 2021.06.05-14.23.33
+[2021.06.05-14.23.33:936][759]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62889, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-8B51FAD14A59F415CA9FF28849089D47
+[2021.06.05-14.23.33:936][759]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2021.06.05-14.23.33:937][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-14.23.33:943][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.23.34:017][759]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016AE10CB4C0), frame # 569759
+[2021.06.05-14.23.34:017][759]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016AB039B400), frame # 569759
+[2021.06.05-14.23.34:017][759]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016AD9B69940), frame # 569759
+[2021.06.05-14.23.34:017][759]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016ADDEF3000), frame # 569759
+[2021.06.05-14.23.34:021][759]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.06.05-14.23.34:081][760]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.06.05-14.23.34:081][760]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.06.05-14.23.47:903][ 60]BlueprintLog: New page: WG_LanguageSelectionMenu 컴파일
+[2021.06.05-14.23.47:984][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.06.05-14.23.48:640][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Taeryong/Entry/WG_LanguageSelectionMenu" FILE="../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset" SILENT=true
+[2021.06.05-14.23.48:666][107]LogSavePackage: Moving '../../../../../../Unreal/TeamProject/Saved/WG_LanguageSelectionMenu67DD87B04C3D3A3105D7D5B9B8698273.tmp' to '../../../../../../Unreal/TeamProject/Content/Taeryong/Entry/WG_LanguageSelectionMenu.uasset'
+[2021.06.05-14.23.48:684][107]AssetCheck: New page: 애셋 저장: WG_LanguageSelectionMenu
+[2021.06.05-14.23.48:684][107]LogContentValidation: Display: WidgetBlueprint /Game/Taeryong/Entry/WG_LanguageSelectionMenu.WG_LanguageSelectionMenu 유효성 검사
+[2021.06.05-14.23.50:047][233]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2021.06.05-14.23.50:062][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.05-14.23.50:062][233]PIE: New page: PIE 세션: Entry (2021. 6. 6. 오전 8:23:50)
+[2021.06.05-14.23.50:063][233]LogPlayLevel: Creating play world package: /Game/Entry/UEDPIE_0_Entry
+[2021.06.05-14.23.50:063][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000781s)
+[2021.06.05-14.23.50:064][233]LogAIModule: Creating AISystem for world Entry
+[2021.06.05-14.23.50:064][233]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016ACADA5200), frame # 571233
+[2021.06.05-14.23.50:064][233]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016AB344F380), frame # 571233
+[2021.06.05-14.23.50:065][233]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2021.06.05-14.23.50:065][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Entry/Entry.Entry to /Game/Entry/UEDPIE_0_Entry.Entry (0.002067s)
+[2021.06.05-14.23.50:109][233]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.06.05-14.23.50:111][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-14.23.50:111][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-14.23.50:111][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-14.23.50:111][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-14.23.50:111][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-14.23.50:111][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-14.23.50:111][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-14.23.50:111][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-14.23.50:111][233]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-14.23.50:111][233]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-14.23.50:122][233]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.23.50:122][233]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.23.50:142][233]LogAudioMixer: Display: Using Audio Device 스피커(5- a22xt USB Audio driver)
+[2021.06.05-14.23.50:142][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-14.23.50:142][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-14.23.50:142][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-14.23.50:143][233]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-14.23.50:156][233]LogInit: FAudioDevice initialized.
+[2021.06.05-14.23.50:206][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.23.50:206][233]LogLoad: Game class is 'BP_EntryGameMode_C'
+[2021.06.05-14.23.50:207][233]LogWorld: Bringing World /Game/Entry/UEDPIE_0_Entry.Entry up for play (max tick rate 0) at 2021.06.05-23.23.50
+[2021.06.05-14.23.50:208][233]LogWorld: Bringing up level for play took: 0.000578
+[2021.06.05-14.23.50:208][233]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.06.05-14.23.50:211][233]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.06.05-14.23.50:211][233]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.06.05-14.23.50:211][233]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.06.05-14.23.50:211][233]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2021.06.05-14.23.50:211][233]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.23.50:211][233]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2021.06.05-14.23.50:214][233]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.05-14.23.50:217][233]PIE: 서버가 로그인했습니다.
+[2021.06.05-14.23.50:220][233]PIE: 에디터에서 플레이 총 시작 시간 0.158초입니다.
+[2021.06.05-14.23.50:222][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.05-14.23.50:222][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.05-14.23.50:222][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.05-14.23.50:222][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.05-14.23.50:222][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.05-14.23.50:222][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.05-14.23.50:222][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.05-14.23.50:222][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.05-14.23.50:223][233]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.05-14.23.50:223][233]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.05-14.23.50:235][233]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.05-14.23.50:235][233]LogAudioMixer: Display: 1: FrontRight
+[2021.06.05-14.23.50:258][233]LogAudioMixer: Display: Using Audio Device 스피커(5- a22xt USB Audio driver)
+[2021.06.05-14.23.50:259][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.05-14.23.50:259][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.05-14.23.50:259][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.05-14.23.50:260][233]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.05-14.23.50:273][233]LogInit: FAudioDevice initialized.
+[2021.06.05-14.23.50:323][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.23.50:323][233]LogNet: Browse: 127.0.0.1:17777/Engine/Maps/Entry
+[2021.06.05-14.23.50:323][233]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.06.05-14.23.50:323][233]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.06.05-14.23.50:324][233]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.23.50:324][233]LogNet: Game client on port 17777, rate 10000
+[2021.06.05-14.23.50:327][233]PIE: 클라이언트가 로그인했습니다.
+[2021.06.05-14.23.50:329][233]PIE: 에디터에서 플레이 총 시작 시간 0.268초입니다.
+[2021.06.05-14.23.51:341][303]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62890
+[2021.06.05-14.23.51:341][303]LogHandshake: SendConnectChallenge. Timestamp: 1.301838, Cookie: 227051059118057017228177215085041170252196190066148018059069
+[2021.06.05-14.23.51:342][303]LogHandshake: SendChallengeResponse. Timestamp: 1.301838, Cookie: 227051059118057017228177215085041170252196190066148018059069
+[2021.06.05-14.23.51:355][304]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62890
+[2021.06.05-14.23.51:355][304]LogHandshake: SendChallengeAck. InCookie: 227051059118057017228177215085041170252196190066148018059069
+[2021.06.05-14.23.51:355][304]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62890
+[2021.06.05-14.23.51:355][304]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.06.05-14.23.51:356][304]LogNet: NotifyAcceptedConnection: Name: Entry, TimeStamp: 06/05/21 23:23:51, [UNetConnection] RemoteAddr: 127.0.0.1:62890, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.23.51:356][304]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62890, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.23.51:356][304]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.06.05-14.23.51:370][305]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Entry/UEDPIE_0_Entry.Entry: Accepted
+[2021.06.05-14.23.51:370][305]LogNet: Remote platform little endian=1
+[2021.06.05-14.23.51:370][305]LogNet: This platform little endian=1
+[2021.06.05-14.23.51:371][305]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.06.05-14.23.51:385][306]LogNet: Login request: ?Name=DESKTOP-49VT7VK-6238CEDE4A632D17B56C5AB0F18CC4F6 userId: NULL:DESKTOP-49VT7VK-6238CEDE4A632D17B56C5AB0F18CC4F6 platform: NULL
+[2021.06.05-14.23.51:385][306]LogNet: Welcomed by server (Level: /Game/Entry/UEDPIE_0_Entry, Game: /Game/Entry/BP_EntryGameMode.BP_EntryGameMode_C)
+[2021.06.05-14.23.51:386][306]LogLoad: LoadMap: 127.0.0.1:17777/Game/Entry/UEDPIE_0_Entry?game=/Game/Entry/BP_EntryGameMode.BP_EntryGameMode_C
+[2021.06.05-14.23.51:386][306]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2021.06.05-14.23.51:386][306]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.23.51:386][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.23.51:430][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.06.05-14.23.51:434][306]LogAIModule: Creating AISystem for world Entry
+[2021.06.05-14.23.51:434][306]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000016A34AC0400), frame # 571306
+[2021.06.05-14.23.51:434][306]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000016AB5D73740), frame # 571306
+[2021.06.05-14.23.51:436][306]LogWorld: Bringing World /Game/Entry/UEDPIE_1_Entry.Entry up for play (max tick rate 0) at 2021.06.05-23.23.51
+[2021.06.05-14.23.51:436][306]LogWorld: Bringing up level for play took: 0.000352
+[2021.06.05-14.23.51:436][306]LogLoad: Took 0.050694 seconds to LoadMap(/Game/Entry/UEDPIE_0_Entry)
+[2021.06.05-14.23.51:495][307]LogNet: Client netspeed is 10000
+[2021.06.05-14.23.51:495][307]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-49VT7VK-6238CEDE4A632D17B56C5AB0F18CC4F6?SplitscreenCount=1
+[2021.06.05-14.23.51:496][307]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.23.51:497][307]LogNet: Join succeeded: DESKTOP-49VT7VK-6238
+[2021.06.05-14.23.51:765][325]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.05-14.23.51:823][329]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.23.51:868][332]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.06.05-14.24.24:844][223]LogSlate: Window 'TeamProject 프리뷰 [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2021.06.05-14.24.24:868][223]LogWorld: BeginTearingDown for /Game/Entry/UEDPIE_1_Entry
+[2021.06.05-14.24.24:906][223]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.24.24:906][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.24.24:913][223]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2021.06.05-14.24.24:913][223]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2021.06.05-14.24.24:913][223]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: BP_EntryPlayerControl_C_0, Owner: BP_EntryPlayerControl_C_0, UniqueId: NULL:DESKTOP-49VT7VK-6238CEDE4A632D17B56C5AB0F18CC4F6, Channels: 10, Time: 2021.06.05-14.24.24
+[2021.06.05-14.24.24:913][223]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: BP_EntryPlayerControl_C_0, Owner: BP_EntryPlayerControl_C_0, UniqueId: NULL:DESKTOP-49VT7VK-6238CEDE4A632D17B56C5AB0F18CC4F6
+[2021.06.05-14.24.24:913][223]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2021.06.05-14.24.24:914][223]LogWorld: BeginTearingDown for /Game/Entry/UEDPIE_0_Entry
+[2021.06.05-14.24.24:914][223]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.06.05-14.24.24:914][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.05-14.24.24:914][223]LogSlate: Window 'TeamProject 프리뷰 [NetMode: Server] (64-bit/Windows) ' being destroyed
+[2021.06.05-14.24.24:920][223]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2021.06.05-14.24.24:920][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.24.24:929][223]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2021.06.05-14.24.24:929][223]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2021.06.05-14.24.24:930][223]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62890, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-6238CEDE4A632D17B56C5AB0F18CC4F6
+[2021.06.05-14.24.24:930][223]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62890, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-6238CEDE4A632D17B56C5AB0F18CC4F6, Channels: 10, Time: 2021.06.05-14.24.24
+[2021.06.05-14.24.24:930][223]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62890, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_EntryPlayerControl_C_1, Owner: BP_EntryPlayerControl_C_1, UniqueId: NULL:DESKTOP-49VT7VK-6238CEDE4A632D17B56C5AB0F18CC4F6
+[2021.06.05-14.24.24:930][223]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2021.06.05-14.24.24:931][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.05-14.24.24:937][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.05-14.24.25:016][223]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016AB344F380), frame # 573223
+[2021.06.05-14.24.25:016][223]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016ACADA5200), frame # 573223
+[2021.06.05-14.24.25:016][223]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016AB5D73740), frame # 573223
+[2021.06.05-14.24.25:016][223]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016A34AC0400), frame # 573223
+[2021.06.05-14.24.25:021][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.06.05-14.24.25:081][224]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.06.05-14.24.25:081][224]LogPlayLevel: Display: Destroying online subsystem :Context_24
